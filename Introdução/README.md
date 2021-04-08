@@ -1,2 +1,5 @@
-# bootcamp-engenharia-de-dados
- Bootcamp Online - Data Engineering desenvolvido pela IGTI - https://www.igti.com.br/
+# Abertura - Aquecimento e Regras do Jogo
+ * Corpo docente
+ * Visão geral do curso
+ * Conteúdo 
+ * Ferramentas utilizadas
