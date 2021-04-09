@@ -1,5 +1,9 @@
 # Bootcamp Online - Engenheiro de Dados
  **Bootcamp Online - Data Engineering desenvolvido pela IGTI - https://www.igti.com.br/**
+ 
+ ``` Certificado: ``` [clique aqui] (https://github.com/JorgeCandido/Ola-Mundo/blob/main/guia-markdown.pdf)
+ ``` Duração: ``` 2 meses, 148 horas no total
+ 
 ## Cronograma do BootCamp
 * Módulo: Introdução
 
