@@ -12,3 +12,7 @@
 * Módulo 04: Infraestrutura de dados e arquitetura escalável
 
 ### Módulo: Desafio Final
+
+## Trilha do Bootcamp
+***
+![Trilha Engenharia de Dados](https://user-images.githubusercontent.com/19857903/114110446-e2658400-98ad-11eb-9e87-7c87570bef6d.png)
